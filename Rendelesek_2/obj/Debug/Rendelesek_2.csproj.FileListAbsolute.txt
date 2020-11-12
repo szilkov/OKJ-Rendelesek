@@ -1,0 +1,6 @@
+C:\Users\Szilvia\source\repos\Rendelesek_2\Rendelesek_2\bin\Debug\Rendelesek_2.exe.config
+C:\Users\Szilvia\source\repos\Rendelesek_2\Rendelesek_2\bin\Debug\Rendelesek_2.exe
+C:\Users\Szilvia\source\repos\Rendelesek_2\Rendelesek_2\bin\Debug\Rendelesek_2.pdb
+C:\Users\Szilvia\source\repos\Rendelesek_2\Rendelesek_2\obj\Debug\Rendelesek_2.csprojAssemblyReference.cache
+C:\Users\Szilvia\source\repos\Rendelesek_2\Rendelesek_2\obj\Debug\Rendelesek_2.exe
+C:\Users\Szilvia\source\repos\Rendelesek_2\Rendelesek_2\obj\Debug\Rendelesek_2.pdb
